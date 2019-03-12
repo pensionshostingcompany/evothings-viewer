@@ -16,9 +16,8 @@
         "android"
     ],
     "dependencies": {
-        "com.evothings.evothingsviewer.config-plugin": "config/config-plugin",
+        "com.evothings.evothingsviewer.config-plugin": "git+https://github.com/pensionshostingcompany/evothings-viewer-config.git",
         "com.unarin.cordova.beacon": "git+https://github.com/petermetz/cordova-plugin-ibeacon.git",
-        "config-plugin": "file:config/config-plugin",
         "cordova-android": "^7.1.0",
         "cordova-plugin-badge": "^0.8.7",
         "cordova-plugin-battery-status": "^2.0.2",
