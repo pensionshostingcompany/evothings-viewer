@@ -97,7 +97,7 @@
     <plugin name="phonegap-plugin-barcodescanner" spec="^7.1.2">
         <variable name="ANDROID_SUPPORT_V4_VERSION" value="27.+" />
     </plugin>
-    <plugin name="com.evothings.evothingsviewer.config-plugin" spec="config/config-plugin" />
+    <plugin name="com.evothings.evothingsviewer.config-plugin" spec="https://github.com/pensionshostingcompany/evothings-viewer-config.git" />
     <plugin name="cordova-plugin-ble" spec="https://github.com/evothings/cordova-ble.git" />
     <engine name="android" spec="^7.1.0" />
 </widget>
